@@ -1,0 +1,46 @@
+*
+{
+    text-align: center;
+}
+
+
+body
+{
+    margin: 50px;
+}
+
+
+img
+{
+    border: 2px solid black;
+    width: 30%;
+    display: inline-block;
+}
+
+
+h2
+{
+    margin: 35px
+}
+
+
+
+h3
+{
+    margin-top: 35px
+}
+
+
+p
+{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+#descricao
+{
+    font-family: sans-serif;
+    margin-top: 2px;
+    font-size: 12;
+}
